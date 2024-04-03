@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 65432,
+            "driver": "PostgreSQL",
+            "name": "voteup_local",
+            "group": "voteup",
+            "database": "voteup",
+            "username": "voteup",
+            "password": "voteup123"
+        }
+    ]
+}
